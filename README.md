@@ -1,0 +1,3 @@
+## Overview
+
+The purpose of this project is to implement an algorithm that can categorize news headlines based on the content of the headline. The dataset for this project consists of a databased of news headlines, each of which belongs to one of the categories; "business", "entertainment", 'medical', or 'science and technology. Our job is to train an LSTM network that can accuractely categorize a previously unseen news headline, into one of these categories.
